@@ -1,0 +1,5 @@
+abracadabra: 1
+everything: 2
+fine: 2
+punctuation: 1
+testing: 1
